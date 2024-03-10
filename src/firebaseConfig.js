@@ -7,7 +7,15 @@ import { getStorage } from "firebase/storage";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {};
+const firebaseConfig = {
+    apiKey: "AIzaSyAhV-vWz-8W4whhC0of4PscErfUysFYxuY",
+    authDomain: "linkedin-clone-173be.firebaseapp.com",
+    projectId: "linkedin-clone-173be",
+    storageBucket: "linkedin-clone-173be.appspot.com",
+    messagingSenderId: "957534038731",
+    appId: "1:957534038731:web:1c82c37a3f492bc09d894e",
+    measurementId: "G-DL31W4KT1N"
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
