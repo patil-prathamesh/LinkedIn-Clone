@@ -8,14 +8,14 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAhV-vWz-8W4whhC0of4PscErfUysFYxuY",
-    authDomain: "linkedin-clone-173be.firebaseapp.com",
-    projectId: "linkedin-clone-173be",
-    storageBucket: "linkedin-clone-173be.appspot.com",
-    messagingSenderId: "957534038731",
-    appId: "1:957534038731:web:1c82c37a3f492bc09d894e",
-    measurementId: "G-DL31W4KT1N"
-};
+    apiKey: "AIzaSyDREPzNBT8H4a-NL_PTbvGil7ATa1DC3Ik",
+    authDomain: "li-clone-da485.firebaseapp.com",
+    projectId: "li-clone-da485",
+    storageBucket: "li-clone-da485.appspot.com",
+    messagingSenderId: "309534164229",
+    appId: "1:309534164229:web:a7c6bb068770254de7a36c",
+    measurementId: "G-97QBZ2WQ8D"
+  };
 // const firebaseConfig = {
 //     apiKey: "AIzaSyATjaAVIczBmJVbGPoPH2yB-YB_a4oMZPs",
 //     authDomain: "l-clone-e559d.firebaseapp.com",
